@@ -64,7 +64,7 @@ if (!empty($_COOKIE['utilisateur'])) {
                 </li>
                 <li>
                     <a href="../Vue/classementmatch.php">
-                        <i class="fa fa-info-circle" aria-idden="true"></i>
+                        <i class="fa fa-futbol-o" aria-hidden="true"></i>
                         <span>Classement</span></a>
                 </li>
                 <li>
@@ -89,7 +89,7 @@ if (!empty($_COOKIE['utilisateur'])) {
                 </li>
                 <li>
                     <a href="../Vue/about.php">
-                        <i class="fa fa-football" aria-idden="true"></i>
+                        <i class="fa fa-futbol-o" aria-hidden="true"></i>
                         <span>About</span></a>
                 </li>
             </ul>
