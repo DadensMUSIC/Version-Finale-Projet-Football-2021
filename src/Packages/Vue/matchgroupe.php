@@ -274,3 +274,42 @@ if (!empty($_COOKIE['utilisateur'])) {
             </section>
         </div>
     </div>
+    
+    <style>
+        
+        .affiche1{
+            position:absolute;
+            left:50%;
+            top:30%;
+        }
+        .affiche2{
+            position:absolute;
+            left:50%;
+            top:95%;
+        }
+        .sect_tab1{
+            position:absolute;
+            overflow:scroll;
+            width:100%;
+            height:100vh;
+        }
+        .sect_tab1::-webkit-scrollbar{
+            width:15px;
+        }
+        .sect_tab1::-webkit-scrollbar-thumb{
+            background-color:rgba(28,77,145,0.829);
+        }
+        td button{
+            border:none;
+            padding:3px 5px;
+            border-radius:5px;
+            box-shadow:1px 1px 4px black;
+        }
+        input[type="number"]{
+            text-align:center;
+        }
+        iframe{
+            width:100%;
+            height:100vh;
+        }
+    </style>
