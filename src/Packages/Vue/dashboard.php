@@ -88,8 +88,8 @@ if (!empty($_COOKIE['utilisateur'])) {
                         <span>LogOut</span></a>
                 </li>
                 <li>
-                    <a href="#">
-                        <i class="fa fa-about" aria-idden="true"></i>
+                    <a href="../Vue/about.php">
+                        <i class="fa fa-futbol-o" aria-hidden="true"></i>
                         <span>About</span></a>
                 </li>
             </ul>
