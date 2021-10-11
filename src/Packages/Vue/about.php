@@ -90,7 +90,7 @@ if (!empty($_COOKIE['utilisateur'])) {
                 </li>
                 <li class="act">
                     <a href="../Vue/about.php">
-                        <i class="fa fa-about" aria-idden="true"></i>
+                        <i class="fa fa-futbol-o" aria-hidden="true"></i>
                         <span>About</span></a>
                 </li>
             </ul>
@@ -128,7 +128,7 @@ if (!empty($_COOKIE['utilisateur'])) {
                         <h3>ING. Christan Denison VICTOR</h3>
                         <p>
                             Etudiant en Sciences Informatiques à l'Université INUKA <br>
-                            en Haiti, chef de projet, realisateur, programmeur/designeur,le concepteur du groupe <b>Coupe 3eme Info</b>
+                            en Haiti, Chef de projet, Realisateur, Programmeur/Designeur et Concepteur du groupe <b>Coupe 3eme Info</b>
                         </p>
                     </div>
                 </div>
@@ -138,7 +138,7 @@ if (!empty($_COOKIE['utilisateur'])) {
                         <h3>ING. Jeff Dadensky PIERRE</h3>
                         <p>
                             Etudiant en Sciences Informatiques à l'Université INUKA <br>
-                            en Haiti,  realisateur, designeur/programmeur,le concepteur du groupe <b>Coupe 3eme Info</b>
+                            en Haiti,  Realisateur, Designeur/Programmeur et concepteur du groupe <b>Coupe 3eme Info</b>
                         </p>
                     </div>
                     <img src="./images/imagesbands/Dadensky.jpg" alt="Dadensky">
@@ -150,7 +150,7 @@ if (!empty($_COOKIE['utilisateur'])) {
                         <h3>ING. Wills BREDY</h3>
                         <p>
                             Etudiant en Sciences Informatiques à l'Université INUKA <br>
-                            en Haiti, niveau 3ème année, realisateur, designeur/programmeur,le mise en charge du <b>Coupe 3eme Info</b><br>
+                            en Haiti, niveau 3ème année, Realisateur, Designeur/Programmeur et metteur en charge du <b>Coupe 3eme Info</b><br>
                         </p>
                     </div>
                 </div>
