@@ -120,3 +120,23 @@ if (!empty($_COOKIE['utilisateur'])) {
             </section>
         </div>
     </div>
+    
+    <style>
+        #gagnant{
+            font-size:xx-large;
+            color:white;
+            font-family:'Century Gothic';
+        }
+        .sect1 p{
+            color:white;
+            font-size:18px;
+            margin:5px;
+        }
+        
+        #gagnant span{
+            color:brown;
+        }
+        input[type="number"]{
+            text-align:center;
+        }
+    </style>
