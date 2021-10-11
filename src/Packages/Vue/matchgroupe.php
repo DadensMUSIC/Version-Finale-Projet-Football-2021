@@ -76,7 +76,7 @@ if (!empty($_COOKIE['utilisateur'])) {
                         <span>Grande Finale</span></a>
                 </li>
                 <li>
-                    <a href="../Vue/about.php">
+                    <a href="../Vue/logout.php">
                         <i class="fa fa-power-off" aria-idden="true"></i>
                         <span>LogOut</span></a>
                 </li>
