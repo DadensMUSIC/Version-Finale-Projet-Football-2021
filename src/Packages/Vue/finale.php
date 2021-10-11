@@ -85,7 +85,7 @@ if (!empty($_COOKIE['utilisateur'])) {
                 </li>
                 <li>
                     <a href="../Vue/about.php">
-                        <i class="fa fa-about" aria-idden="true"></i>
+                    <i class="fa fa-futbol-o" aria-hidden="true"></i>
                         <span>About</span></a>
                 </li>
             </ul>
