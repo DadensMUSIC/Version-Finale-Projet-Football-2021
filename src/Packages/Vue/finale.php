@@ -132,7 +132,7 @@ if (!empty($_COOKIE['utilisateur'])) {
                 </div>
             </section>
             <canvas id="my-canvas"></canvas>
-            <script src="index.min.js"></script>
+            <script src="./js/footanim.min.js"></script>
 
             <!-- popup javascript -->
             <script>
